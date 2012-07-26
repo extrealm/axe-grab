@@ -1,0 +1,10 @@
+;axe-cm.def : Declares the module parameters for the DLL.
+
+LIBRARY      axe-cm
+DESCRIPTION  'Austin AXE Shell Extension'
+
+EXPORTS
+  DllCanUnloadNow PRIVATE
+  DllGetClassObject PRIVATE
+  DllRegisterServer PRIVATE
+  DllUnregisterServer PRIVATE
