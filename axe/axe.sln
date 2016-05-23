@@ -1,9 +1,11 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 9.00
-# Visual Studio 2005
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "axe", "axe\axe.vcproj", "{825537A3-6F40-41F1-B73F-371DB7CDDA9C}"
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "axe", "axe\axe.vcxproj", "{825537A3-6F40-41F1-B73F-371DB7CDDA9C}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "axe-cm", "axe-cm\axe-cm.vcproj", "{3758FD15-18D0-4567-AF3A-DA87AF245B31}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "axe-cm", "axe-cm\axe-cm.vcxproj", "{3758FD15-18D0-4567-AF3A-DA87AF245B31}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
